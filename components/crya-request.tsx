@@ -40,7 +40,7 @@ Es muy fácil: solo debes completar un breve formulario con tus datos para reali
               Ingresa aquí y termina tu formulario:
             </p>
             <a
-              href="https://tinyurl.com/yp3ve8xn"
+              href="https://tinyurl.com/2tx4csk4"
               className="mt-3 inline-flex h-12 w-full max-w-xs items-center justify-center gap-2 rounded-xl bg-blue-700 text-base font-semibold text-white shadow-lg shadow-blue-700/15 transition hover:bg-blue-800 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-blue-500/30"
             >
               primera opción
@@ -50,7 +50,7 @@ Es muy fácil: solo debes completar un breve formulario con tus datos para reali
               En caso de que no puedas finalizar tu registro o tengas algún inconveniente, puedes solicitar tu préstamo mediante nuestra segunda opción, que encontrarás aquí abajo.
             </p>
             <a
-              href="https://tinyurl.com/49n393vn"
+              href="https://tinyurl.com/bdejn6xv"
               className="mt-3 inline-flex h-12 w-full max-w-xs items-center justify-center gap-2 rounded-xl bg-blue-700 text-base font-semibold text-white shadow-lg shadow-blue-700/15 transition hover:bg-blue-800 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-blue-500/30"
             >
               segunda opción
